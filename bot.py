@@ -6,7 +6,7 @@ from flask import Flask
 from threading import Thread
 
 # التوكن الصحيح الخاص بك
-BOT_TOKEN = "8892512718:AAH73fJFBNOZJRSYGGhQ4O3-pNx3Aiie5lc"
+BOT_TOKEN = 8892512718:AAELsqWpX320kar5EZu8pO8DwVfvvW2-rNQ-pNx3Aiie5lc"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # سيرفر وهمي لإبقاء منصة Render مستقرة وتعمل مجاناً
